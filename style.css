@@ -88,9 +88,11 @@ body {
 .section h3 {
   text-align: center;
   padding: 2rem;
+  font-size: 1.5rem;
 }
 .gray {
   background-color: var(--gray);
+  padding: 1rem 0;
 }
 
 /* footer */
